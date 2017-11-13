@@ -22,6 +22,9 @@ body{
     top:50px;
 }
 
+.col-md-10{
+ top:75px;   
+}
 .navbar-brand{
 width: 220px;
 text-align: center;
