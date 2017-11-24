@@ -7,6 +7,14 @@ body{
     margin-left:50px;
 }
 
+#mapa
+{
+    position:relative;
+    left: 16px;
+    top: -25px;
+
+}
+
 .navbar-default .navbar-nav>li>a {
     color: black;
     font-size: 18;
