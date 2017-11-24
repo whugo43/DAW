@@ -51,6 +51,16 @@ body{
 height: 300px;
   }
 
+.col-md-3 > .container-fluid > .fluid > img,
+.col-md-3> .container-fluid > a > .fluid > img{
+      width: 274px;
+      height: 200px;
+      margin: 0;
+  }
+.fluid{
+height: 300px;width:  300px;
+  }
+
 .navbar-left >.activo >li >a{
     background-color:#666;
     color:white;
@@ -67,10 +77,6 @@ color:black;
     color: black;
 }
 
-.row .col-md-3 .container-fluid >a >img {
-      width:273px;
-      height: 200px;
-  }
 
 a:link{   
  text-decoration:none;   
